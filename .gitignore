@@ -1,0 +1,8 @@
+# @language  gitignore
+# @updated   2026-11-19
+# @changed   Excluded local environments, Python caches, and Streamlit secrets.
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+.DS_Store

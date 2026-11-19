@@ -1,0 +1,4 @@
+# @language  pip requirements
+# @updated   2026-11-19
+# @changed   Declared the Streamlit runtime dependency.
+streamlit>=1.40,<2
